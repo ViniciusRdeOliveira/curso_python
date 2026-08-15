@@ -1,0 +1,54 @@
+#Lista de Filmes
+moviesList = ["Titanic", "The Godfather","Inception", "Jurassic Park"]
+
+# 1- interando valores de uma lista de filmes com while
+
+# index = 0
+# print (len(moviesList))
+
+# while index < len(moviesList):
+#     print(moviesList[index])
+#     index +=1
+
+# # 2 - Quandi a condição for atendida o loop será enecerrado
+# index = 0
+# print (len(moviesList))
+
+# while index < len(moviesList):
+#     if moviesList[index] == "Inception":
+#         break
+#     print(moviesList[index])
+#     index +=1
+
+# 3 - Quando a condição for atendida, o loop vai para a próxima interação
+
+# index = 0
+# print (len(moviesList))
+
+# while index < len(moviesList):
+#     if moviesList[index] == "Inception":
+#         index +=1
+#         continue
+#     print(moviesList[index])
+#     index +=1
+
+
+# 4 - Avaliação do Filme com While
+
+movieName = input("Digite o nome do filme\n")
+movieRating = int(input("Digite quantas avaliações deseja fazer\n"))
+
+total = 0
+count = 0
+
+while count < movieRating:
+    note = float(input("Digite a nota do filme\n"))
+    total += note
+    count += 1
+
+if movieRating > 0:
+    average = total / movieRating
+else:
+    average =0
+
+print(f"Media de avaliação do filme {movieName} é {average:.2f}")

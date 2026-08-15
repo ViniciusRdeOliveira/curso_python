@@ -7,9 +7,9 @@
 # else:
 #     print(f"O filme {name} ainda não atingiu uma boa nota.")
 
-num1 = float(input("Digite o primeiro número"))
-num2 = float(input("Digite o segundo número"))
-operation = inputi("Digite a operação a ser realizada: (+ - * /)")
+num1 = float(input("Digite o primeiro número\n"))
+num2 = float(input("Digite o segundo número\n"))
+operation = input("Digite a operação a ser realizada: (+ - * /)\n")
 
 if operation == "+":
     result = num1 + num2
