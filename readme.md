@@ -12,7 +12,9 @@ Sou **Analista de Sistemas**, com experiência em tecnologia, sistemas, suporte,
 
 Atualmente estou aprofundando meus conhecimentos em **Python**, com foco em desenvolvimento, automação, testes e integração de sistemas.
 
-🔗 [![GitHub](https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white)]
+🔗 <a href="https://github.com/ViniciusRdeOliveira/">
+        <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
 
 
 ## 📚 Progresso do Curso
