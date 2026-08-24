@@ -1,0 +1,36 @@
+# 1 Função para imprimir uma mensagem.
+# def welcome():
+#     print("bem vindo ao sistema de filmes!")
+
+# welcome()
+
+# for i in range(10):
+#     welcome()
+
+# 2 - Função para calcular média de notas
+
+def calculate_average():
+    num_ratings = int(input("Digite quantas avaliações deseja fazer para o filme:\n"))
+    total = 0
+    for i in range(num_ratings):
+        note = float(input("Digite a nota para o filme:\n"))
+        total += note
+
+    if num_ratings >0:
+        average  = total /num_ratings
+    else:
+        average = 0
+
+    return average
+
+print(f"A média de avaliações é {calculate_average():.2f}")
+
+def create_movie():
+    name = input("Digite o nome do filme:\n") #\n é utilizado para pular linha
+    yearLauch = int(input("Digite o ano de lançamento do filme:\n"))
+    moviePrice = float(input("Digite o preço do filme:\n"))
+    rating = float(input("Digite a nota do filme:\n"))
+
+    print(f"{name} ({yearLauch}) -R$ {moviePrice}")
+
+create_movie()
