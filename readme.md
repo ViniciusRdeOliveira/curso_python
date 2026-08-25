@@ -8,10 +8,23 @@ O objetivo é registrar minha evolução no aprendizado de Python, colocando em 
 
 ## 👨‍💻 Sobre mim
 
-Sou **Analista de Sistemas**, com experiência em tecnologia, sistemas, suporte, análise de problemas e qualidade de software.
+Sou **Analista de Sistemas**, com experiência em **Suporte Técnico**, **Qualidade de Software (QA)** e **integração de sistemas**, atuando principalmente em projetos de e-commerce e sistemas corporativos.
 
-Atualmente estou aprofundando meus conhecimentos em **Python**, com foco em desenvolvimento, automação, testes e integração de sistemas.
+Tenho experiência com análise de requisitos, testes funcionais, validação de APIs REST, homologação de melhorias, acompanhamento de integrações e análise de problemas, trabalhando em conjunto com equipes de desenvolvimento e áreas de negócio.
 
+Atualmente, venho ampliando meus conhecimentos em **Python**, **Cypress** e **automação de testes**, buscando unir minha experiência em sistemas e qualidade de software ao desenvolvimento de soluções mais eficientes e confiáveis.
+
+Tenho perfil analítico, foco na resolução de problemas e interesse constante em aprendizado e evolução profissional.
+
+
+<a href="https://instagram.com/itsviniioliveira">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Cypress">
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/vinicius-ribeiro-de-oliveira">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white" alt="Cypress">
+</a>
+&ensp;
 <a href="https://github.com/ViniciusRdeOliveira/">
     <img src="https://img.shields.io/badge/GitHub-3776AB?logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -19,6 +32,12 @@ Atualmente estou aprofundando meus conhecimentos em **Python**, com foco em dese
 <a href="https://github.com/ViniciusRdeOliveira/curso_cypress">
     <img src="https://img.shields.io/badge/Cypress-00D084?logo=cypress&logoColor=white" alt="Cypress">
 </a>
+&ensp;
+<a href="https://github.com/ViniciusRdeOliveira/curso_python">
+    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white" alt="Cypress">
+</a>
+
+
 
 
 ## 📚 Progresso do Curso
