@@ -26,7 +26,7 @@ Tenho perfil analítico, foco na resolução de problemas e interesse constante 
 </a>
 &ensp;
 <a href="https://github.com/ViniciusRdeOliveira/">
-    <img src="https://img.shields.io/badge/GitHub-3776AB?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-3776AB?logo=github&logoColor=grey" alt="GitHub">
 </a>
 &ensp;
 <a href="https://github.com/ViniciusRdeOliveira/curso_cypress">
@@ -34,7 +34,7 @@ Tenho perfil analítico, foco na resolução de problemas e interesse constante 
 </a>
 &ensp;
 <a href="https://github.com/ViniciusRdeOliveira/curso_python">
-    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=white" alt="Cypress">
+    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Cypress">
 </a>
 
 
