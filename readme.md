@@ -15,6 +15,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python**, com foco em dese
 <a href="https://github.com/ViniciusRdeOliveira/">
     <img src="https://img.shields.io/badge/GitHub-3776AB?logo=github&logoColor=white" alt="GitHub">
 </a>
+&ensp;
 <a href="https://github.com/ViniciusRdeOliveira/curso_cypress">
     <img src="https://img.shields.io/badge/Cypress-00D084?logo=cypress&logoColor=white" alt="Cypress">
 </a>
