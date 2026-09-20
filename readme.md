@@ -44,8 +44,8 @@ Tenho perfil analítico, foco na resolução de problemas e interesse constante 
 
 * [x] Módulo 1 — Introdução
 * [x] Módulo 2 — Fundamentos
-* [ ] Módulo 3 — Praticando com Python
-* [ ] Módulo 4 — Módulos Built-in
+* [x] Módulo 3 — Praticando com Python
+* [x] Módulo 4 — Módulos Built-in
 * [ ] Módulo 5 — Programação Orientada a Objetos
 * [ ] Módulo 6 — Praticando Orientação a Objetos
 * [ ] Módulo 7 — Interface Gráfica com Gradio
@@ -77,47 +77,6 @@ Tenho perfil analítico, foco na resolução de problemas e interesse constante 
 * [ ] Módulo 33 — Guia para a Jornada Nômade Digital
 * [ ] Módulo 34 — Segurança em Aplicações Web com Kali Linux
 
-## 🧠 Conteúdos estudados
-
-### Fundamentos de Python
-
-Até o momento, foram estudados:
-
-* Variáveis e tipos de dados
-* Operadores
-* Strings
-* Listas
-* Tuplas
-* Sets
-* Dicionários
-* Estruturas condicionais (`if`, `elif`, `else`)
-* Estruturas de repetição (`for` e `while`)
-* List Comprehension
-* Funções
-* Lógica de programação
-* Exercícios práticos
-
-## 📁 Organização
-
-O repositório será atualizado conforme avanço no curso, mantendo os exercícios e exemplos organizados de acordo com os conteúdos estudados.
-
-```text
-python-curso/
-│
-├── fundamentos/
-│   ├── operadores/
-│   ├── strings/
-│   ├── listas/
-│   ├── tuplas/
-│   ├── sets/
-│   ├── dicionarios/
-│   ├── condicionais/
-│   ├── loops/
-│   ├── list_comprehension/
-│   └── funcoes/
-│
-└── README.md
-```
 
 ## 🎯 Objetivos
 
