@@ -16,7 +16,7 @@ frame.pack(padx=10, pady=10, fill='x', expand=True)
 label = tk.Label(frame, text="Olá Mundo")
 label.pack(fill='x', expand=True)  
 
-#4- Adicionando inpu Text
+#4- Adicionando input Text
 
 frase_lab = tk.Label(frame, text="Frase")
 frase_lab.pack(fill='x', expand=True)
